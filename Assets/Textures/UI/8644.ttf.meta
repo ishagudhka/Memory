@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dedc907a26d91724c803b80005a1a193
+timeCreated: 1495499117
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: hAndy
+  fontNames:
+  - hAndy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
